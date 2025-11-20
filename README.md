@@ -15,18 +15,18 @@ Explainable AI (XAI), Knowledge Graphs, and symbolic reasoning
 
 ##  Concepts covered
 
-### ✔️ Knowledge Graphs
+###  Knowledge Graphs
 Graph integration of heterogeneous data (sensors, events, causes).
 Using Python + NetworkX.
 
-### ✔️ Symbolic AI & Reasoning
+###  Symbolic AI & Reasoning
 Shortest-path explanation of causal chains.
 Root cause analysis for scientific events.
 
-### ✔️ Natural Language Processing (NLP)
+###  Natural Language Processing (NLP)
 Simple text generation for event summarization.
 
-### ✔️ API Development
+###  API Development
 FastAPI server exposing:
 - `/neighbors/{id}`
 - `/explain/{event_id}`
