@@ -13,7 +13,7 @@ Explainable AI (XAI), Knowledge Graphs, and symbolic reasoning
 
 ---
 
-## 🧠 Concepts covered
+##  Concepts covered
 
 ### ✔️ Knowledge Graphs
 Graph integration of heterogeneous data (sensors, events, causes).
@@ -34,7 +34,7 @@ FastAPI server exposing:
 
 ---
 
-## 📦 Project Architecture
+##  Project Architecture
 
 explainable-ai-toolkit/
 ├── data/
@@ -44,7 +44,7 @@ explainable-ai-toolkit/
 └── api/
 
 
-## 🚀 How to run
+##  How to run
 
 pip install -r requirements.txt
 uvicorn api.api:app --reload
@@ -54,7 +54,7 @@ http://localhost:8000/explain/Event2
 
 
 
-## 🎯 Purpose
+##  Purpose
 
 This mini-project demonstrates abilities in:
 
