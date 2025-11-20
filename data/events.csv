@@ -1,0 +1,5 @@
+id,type,date,sensor
+Event1,HeavyRain,2021-09-10,SensorA
+Event2,Flood,2021-09-12,SensorB
+SensorA,RainGauge,, 
+SensorB,RiverGauge,,
